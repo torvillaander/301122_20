@@ -1,6 +1,17 @@
 @charset "utf-8";
-/* CSS Document */
+/* CSS 301122_20 */
 body{
-	background-color:rgb(204,255,255);
+	background-image: url(../images/pared.jpg);
+	background-attachment: fixed;
+	background-repeat:repeat; 
 }
-
+.altoCabecera1{
+	height:25px;
+}
+.fondoCabecera{
+	background-color:#FFF;
+	height:80px;
+}
+.bordecabecera{
+	border-radius:20px;
+}
