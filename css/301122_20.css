@@ -15,3 +15,32 @@ body{
 .bordecabecera{
 	border-radius:20px;
 }
+.barraHeader{
+	background-color:rgb(242,184,13);
+	height:30px;
+	text-align:center;
+	}
+.footer{
+		background-color:rgb(242,184,13);
+		border-radius:0px 0px 20px 20px;
+}
+.cuerpo{
+	
+}
+H4{
+	text-height: auto;
+	font-weight: bolder;
+	text-align:center;
+}
+#main{
+}
+.cabeceraFija{
+	position:fixed;
+}
+.eliminarDespues{
+	height:160px;
+	border:double;
+	border-color:rgb(0,0,0);
+	background-color:rgb(102,255,255);
+	text-align:center;
+}
